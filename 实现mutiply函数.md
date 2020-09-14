@@ -1,4 +1,4 @@
-# topics
+# 实现mutiply函数
 - 题目
 ```
 mutiply(2,3).result = 6
